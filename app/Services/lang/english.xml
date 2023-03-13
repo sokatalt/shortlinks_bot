@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<language>
+    <helloMessage>Hello, </helloMessage>
+    <subscribeMessage>You are not subscribed</subscribeMessage>
+    <subscribe>Subscribe</subscribe>
+    <chooseLang>Choose your language</chooseLang>
+    <keyAsk>Please, type your key.</keyAsk>
+    <validateMsg>Your subscription not Validated,If you don't have key please contect admin</validateMsg>
+    <validate>Validate</validate>
+    <doneSub>Subscribe done</doneSub>
+    <alreadySub>You already subscribed</alreadySub>
+    <welBack>Welcome back,</welBack>
+    <erkey>Invalid key!</erkey>
+    <erTriesSubLimit>You have reached the subscription tries limit. If something wrong contact us</erTriesSubLimit>
+    <validateDone>Your subscription is now validated 🤝</validateDone>
+    <notKnowenErr>Something wrong, please try again</notKnowenErr>
+    <genForm>Generate Form</genForm>
+    <chooseFormMsg>Chosse the form</chooseFormMsg>
+    <leads>Show my leads</leads>
+    <disForm>Disable form</disForm>
+    <enForm>Enable form</enForm>
+    <report>Report</report>
+    <ChooseReport>Choose report</ChooseReport>
+    <report7Day>Report last 7 Days</report7Day>
+    <reportToday>Today report</reportToday>
+    <askApproval>Ask for approval</askApproval>
+    <approvalMsg>Your subscription not Validated,Press the "Ask for approval" button</approvalMsg>
+    <willApprove>We will approve your subscription in 24 hour</willApprove>
+    <waitApprove>You already asked for approve be patient</waitApprove>
+    <cpError>Sorry, your subscription is disabled or not validated yet</cpError>
+</language>

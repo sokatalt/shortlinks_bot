@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<language>
+    <helloMessage>مرحباً </helloMessage>
+    <subscribeMessage>انت لست مشترك</subscribeMessage>
+    <subscribe>اشترك الأن !</subscribe>
+    <chooseLang>أختار لغتك</chooseLang>
+    <keyAsk>برجاء كتابة مفتاح تأكيد الأشتراك</keyAsk>
+    <validateMsg>لم يتم تأكيد اشتراكك،ان لم يكن لديك مفتاح برجاء التواصل مع الأدمن</validateMsg>
+    <validate>تأكيد الأشتراك</validate>
+    <doneSub>تم الأشتراك !</doneSub>
+    <alreadySub>انت بالفعل مشترك</alreadySub>
+    <welBack>اهلاً بعودتك</welBack>
+    <erkey>مفتاح خاطئ</erkey>
+    <erTriesSubLimit>انت قد بلغت الحد الأقصى لمحاولات الأشتراك اذا كنت تواجه مشكله نرجو منك الأتصال بنا</erTriesSubLimit>
+    <validateDone>تم تأكيد الأشتراك 🤝</validateDone>
+    <notKnowenErr>حدث خطاء حاول مره اخرى</notKnowenErr>
+    <genForm>إنشاء النموذج</genForm>
+    <chooseFormMsg>إختر النموذج</chooseFormMsg>
+    <leads>Show my leads</leads>
+    <disForm>تعطيل النموذج</disForm>
+    <enForm>تشغيل النموذج</enForm>
+    <report>تقرير</report>
+    <ChooseReport>اختار التقرير</ChooseReport>
+    <report7Day>تقرير اخر 7 ايام</report7Day>
+    <reportToday>تقرير اليوم</reportToday>
+    <askApproval>اطلب الموافقه</askApproval>
+    <approvalMsg>لم يتم تأكيد اشتراكك،اضغط على زر طلب الموافق</approvalMsg>
+    <willApprove>سيتم تأكيد اشتراكك خلال 24 ساعه</willApprove>
+    <waitApprove>انت بالفعل قمت بطلب الموافقه</waitApprove>
+    <cpError>عفواً اشتراكك معطل او لم يتم تفعيله بعد</cpError>
+</language>

@@ -1,0 +1,6 @@
+Send "/disableUser <user id>"to disable user
+Send "/enableUser <user id>"to enable user
+Send "/giveApprove <user id>"to Approve user subscription
+Send "/rejectApprove <user id>" to reject user subscription
+Send "/showAllUsers" to get all users in text file
+Send "/showWaitingUsers" to get waiting approve users in text file

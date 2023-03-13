@@ -1,0 +1,2 @@
+id,user_id,client_id,first_name,last_name,username,chat_id
+1,1,6062933792,Moustafa,Elshamy,,6062933792
